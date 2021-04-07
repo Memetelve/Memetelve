@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memetelve&theme=tokyonight&show_icons=true&count_private=True)
 
 
-#### Contact
+### Contact
 
 Discord: Memetelve#0001 <a href="https://discord.gg/EnycrkqzfY">server link</a>
