@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Contact
 
-Discord: Memetelve#0001 <a href="https://discord.gg/EnycrkqzfY">server link</a>
+Discord: Memetelve#3377 <a href="https://discord.gg/EnycrkqzfY">server link</a>
