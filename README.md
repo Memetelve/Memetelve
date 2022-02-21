@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memetelve&theme=tokyonight&show_icons=true&count_private=True)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### Contact
 
