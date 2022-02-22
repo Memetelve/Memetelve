@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memetelve&theme=tokyonight&show_icons=true&count_private=True)
 
 <!--START_SECTION:waka-->
+```text
+Python       8 hrs 48 mins   █████████████████████░░░░   83.43 % 
+PowerShell   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
 <!--END_SECTION:waka-->
 
 
