@@ -9,6 +9,6 @@
 <details open>
   <summary>Github Stats ⚡</summary>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=memetelve&bg_color=30,e96443,904e95&title_color=000&text_color=000&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetelve&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=memetelve&bg_color=30,e96443,904e95&title_color=fff&text_color=000&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetelve&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=fff&count_private=true&hide_border=true)</a>
 </details>
