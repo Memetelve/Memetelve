@@ -4,11 +4,6 @@
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,tailwind,py,mongodb,mysql,supabase)](https://skillicons.dev)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/288717325765443587?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/288717325765443587)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/288717325765443587)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/288717325765443587)](https://dev.discordprofiles.me/openspotify/288717325765443587)
-
 <details open>
   <summary>Github Stats ⚡</summary>
 
