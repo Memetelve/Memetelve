@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Lies%20by%20Syence%3B%20H.%20Kenneth%20%7C%200%3A01%3A15%20of%200%3A02%3A37?color=61d800&labelColor=1db954&icon=discord)](https://discord.gg/AbQFFR2s)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Visual%20Studio%20Code%2C%20Editing%20moderation.py%2C%201%20minutes%20elapsed.?color=61d800&labelColor=df1473&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
