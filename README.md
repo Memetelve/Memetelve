@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20roxstar%20by%20raspy%3B%20Bangers%20Only%20%7C%200%3A00%3A30%20of%200%3A02%3A30?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
