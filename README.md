@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Glow%20by%20Sanjoy%3B%20Piques%3B%20SYRN%20%7C%200%3A00%3A18%20of%200%3A03%3A39?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Du%20Du%20Dum%20by%20Cjbeards%20%7C%200%3A00%3A26%20of%200%3A03%3A27?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
