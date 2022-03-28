@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Enemies%20by%20The%20Score%20%7C%200%3A00%3A21%20of%200%3A02%3A41?color=fc4409&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Do-Not-Disturb?color=fc4409&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
