@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20City%20Nights%20-%20Esteban%20Remix%20by%20RetroBlue%3B%20Peter%20Jessy%3B%20Esteban%20%7C%200%3A01%3A49%20of%200%3A03%3A40?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Enslaved%20by%20Barren%20Gates%3B%20M.I.M.E%20%7C%200%3A00%3A03%20of%200%3A04%3A03?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
