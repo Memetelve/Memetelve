@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Enslaved%20by%20Barren%20Gates%3B%20M.I.M.E%20%7C%200%3A00%3A03%20of%200%3A04%3A03?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Astronaut%20in%20the%20Ocean%20by%20Ibrahim%20%26%20%C3%98mer%3B%20Ibrahim%20Inci%20%7C%200%3A02%3A19%20of%200%3A02%3A30?color=fc4409&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
