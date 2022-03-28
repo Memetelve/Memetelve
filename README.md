@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20How%20You%20Like%20That%20by%20BLACKPINK%20%7C%200%3A01%3A35%20of%200%3A03%3A02?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/League%20of%20Legends%2C%20Teamfight%20Tactics%20%28Ranked%29%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
