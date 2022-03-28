@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Do-Not-Disturb?color=fc4409&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Outside%20by%20Kartky%3B%20HVZX%20%7C%200%3A01%3A07%20of%200%3A03%3A46?color=fc4409&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
