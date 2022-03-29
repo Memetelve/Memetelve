@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/League%20of%20Legends%2C%20Teamfight%20Tactics%20%28Ranked%29%2C%20?color=61d800&labelColor=df1473&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
