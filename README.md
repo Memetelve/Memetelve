@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Mtc%20by%20S3RL%20%7C%200%3A04%3A04%20of%200%3A04%3A20?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
