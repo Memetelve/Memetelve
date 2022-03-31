@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20High%20Season%20by%20Tiggi%20Hawke%20%7C%200%3A01%3A13%20of%200%3A02%3A52?color=61d800&labelColor=1db954&icon=discord)](https://github.com/Memetelve/Memetelve)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Idle?color=edca00&labelColor=434343&icon=discord)](https://github.com/Memetelve/Memetelve)
 
 # Hey There! 👋
 
